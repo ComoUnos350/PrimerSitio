@@ -1,0 +1,20 @@
+body
+{
+    background-color: aqua;
+}
+div{
+    background-color: red;
+    padding: 10px;
+    width: 550px;
+    height: 300px;
+    
+}
+div img{
+    width: 100px;
+    height: 100px;
+    
+}
+
+.clase{
+    background-image: url("../img/el-llanto-de-lionel-messi-tras-jpg_604x0.jpg");
+}
